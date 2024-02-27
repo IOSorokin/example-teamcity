@@ -39,15 +39,6 @@
           <param name="teamcity.perfmon.feature.enabled" value="true" />
         </parameters>
       </extension>
-      <extension id="BUILD_EXT_1" type="commit-status-publisher">
-        <parameters>
-          <param name="github_authentication_type" value="token" />
-          <param name="github_host" value="https://api.github.com" />
-          <param name="publisherId" value="githubStatusPublisher" />
-          <param name="secure:github_access_token" value="credentialsJSON:f0fcb7bc-e172-40e1-917c-b0cbb715f4df" />
-          <param name="vcsRootId" value="Isdev_HttpsGithubComIOSorokinExampleTeamcityGitRefsHeadsMaster" />
-        </parameters>
-      </extension>
     </build-extensions>
     <cleanup />
   </settings>
