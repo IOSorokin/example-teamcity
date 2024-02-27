@@ -53,7 +53,7 @@
           <param name="authenticationType" value="token" />
           <param name="filterAuthorRole" value="EVERYBODY" />
           <param name="providerType" value="github" />
-          <param name="secure:accessToken" value="credentialsJSON:f0fcb7bc-e172-40e1-917c-b0cbb715f4df" />
+          <param name="secure:accessToken" value="credentialsJSON:1e310e40-892d-4e24-b513-b8e014637503" />
           <param name="vcsRootId" value="Isdev_HttpsGithubComIOSorokinExampleTeamcityGitRefsHeadsMaster" />
         </parameters>
       </extension>
