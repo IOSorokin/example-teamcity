@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter(){
-		return "There is a deer on the hunter's path"
+		return "There is a deer on the hunter's path";
 	}
 }
